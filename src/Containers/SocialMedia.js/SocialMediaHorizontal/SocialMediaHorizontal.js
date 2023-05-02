@@ -6,7 +6,7 @@ function SocialMediaHorizontal() {
             <div className="footer-icons">
                 <ul className="navbar-nav ">
                     <li className="nav-item inline-block">
-                        <a href="https://github.com/sowmiya-saravanan1/Group_A29_2" aria-label="Github" className="nav-link text-github">
+                        <a href="https://github.com/RMOHANA9786/Group_1_A29.git" aria-label="Github" className="nav-link text-github">
                             <i className="fa fa-github"></i>
                         </a>
                     </li>
@@ -18,13 +18,13 @@ function SocialMediaHorizontal() {
                         </a>
                     </li>
                     <li className="nav-item inline-block">
-                        <a href="https://www.instagram.com/__meow_kutty__" aria-label="Insagram" className="nav-link">
+                        <a href="https://instagram.com/monisha_o_a_a?igshid=ZDdkNTZiNTM=" aria-label="Insagram" className="nav-link">
                             <i className="fa fa-instagram"></i>
                         </a>
                     </li>
 
                     <li className="nav-item inline-block">
-                        <a href="https://www.linkedin.com/in/Sowmiya S" aria-label="LinkedIn" className="nav-link">
+                        <a href="https://www.linkedin.com/in/r-mohana-ab02b825a" aria-label="LinkedIn" className="nav-link">
                             <i className="fa fa-linkedin"></i>
                         </a>
                     </li>
