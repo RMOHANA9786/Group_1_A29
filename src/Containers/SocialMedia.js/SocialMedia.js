@@ -6,18 +6,18 @@ function SocialMedia() {
         <div className="footer-icon-sidebar">
             <ul className="navbar-nav">
                 <li className="nav-item inline-block">
-                    <a href="https://github.com/mehulk05" aria-label="Github" className="nav-link text-github"><i
+                    <a href="https://github.com/RMOHANA9786/Group_1_A29.git" aria-label="Github" className="nav-link text-github"><i
                         className="fa fa-github"></i></a></li>
                 <li className="nav-item inline-block">
-                    <a href="https://github.com/sowmiya-saravanan1/Group_A29_2" aria-label="Medium" className="nav-link">
+                    <a href="https://github.com/RMOHANA9786/Group_1_A29.git" aria-label="Medium" className="nav-link">
 
                         <span><img className="img-circle medium-icon" width="24" alt=""
                             src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" /></span></a>
                 </li>
-                <li className="nav-item inline-block"><a href="https://www.instagram.com/__meow_kutty__" aria-label="Insagram" className="nav-link"><i className="fa fa-instagram"
+                <li className="nav-item inline-block"><a href="https://instagram.com/monisha_o_a_a?igshid=ZDdkNTZiNTM=" aria-label="Insagram" className="nav-link"><i className="fa fa-instagram"
                 ></i></a>
                 </li>
-                <li className="nav-item inline-block"><a href="https://www.linkedin.com/in/Sowmiya S" aria-label="LinkedIn" className="nav-link"><i className="fa fa-linkedin"
+                <li className="nav-item inline-block"><a href="https://www.linkedin.com/in/r-mohana-ab02b825a" aria-label="LinkedIn" className="nav-link"><i className="fa fa-linkedin"
                 ></i></a>
                 </li>
             </ul>
